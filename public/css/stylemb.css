@@ -71,7 +71,7 @@ header{
   }
   
   .image-placeholder {
-    width: 100%;
+    width: 100%; 
     aspect-ratio: 1 / 1;
     background-color: #eee;
     border-radius: 8px;
